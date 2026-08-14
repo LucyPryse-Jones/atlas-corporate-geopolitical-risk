@@ -1,0 +1,4 @@
+scenario_id,scenario_name,description,probability,ebitda_impact_pct,valuation_multiple_change,primary_exposure
+SC001,China processing disruption,Export-control or trade disruption constrains processing access,0.25,-0.12,-0.5,EX002
+SC002,Cobalt supply disruption,Political or operational disruption constrains cobalt supply,0.20,-0.15,-0.5,EX001
+SC003,EU compliance cost shock,New regulation increases compliance and traceability costs,0.35,-0.06,-0.2,EX004
