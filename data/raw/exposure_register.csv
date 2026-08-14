@@ -1,0 +1,6 @@
+exposure_id,domain,country,exposure_description,exposure_weight,risk_category,likelihood,impact,confidence,source_note
+EX001,supply_chain,Democratic Republic of Congo,Cobalt input sourcing concentration,0.30,supply_disruption,4,5,0.70,Illustrative case-study assumption
+EX002,supply_chain,China,Refining and processing dependency,0.35,export_controls,4,5,0.80,Illustrative case-study assumption
+EX003,supply_chain,Chile,Lithium input sourcing concentration,0.20,resource_nationalism,3,4,0.70,Illustrative case-study assumption
+EX004,operations,European Union,Manufacturing and regulatory exposure,0.40,regulatory_compliance,3,3,0.90,Illustrative case-study assumption
+EX005,markets,European Union,EV customer demand exposure,0.55,demand_policy_shift,3,4,0.80,Illustrative case-study assumption
